@@ -1,1 +1,1 @@
-This is FrontEnd of BharatSeva Project
+This is FrontEnd of BharatSeva User Interface.
