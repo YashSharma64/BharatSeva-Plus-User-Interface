@@ -1,4 +1,4 @@
-## This is FrontEnd of BharatSeva+ (Plus) User Interface.  
+## BharatSeva+ (Plus) User Interface.  
 ### This Project Consists of two WebApps :
 - [HealthCare InterFace](https://bharatsevaplus-healthcare.netlify.app/)   
 - [User InterFace](https://bharatsevaplus-user.netlify.app/)  
