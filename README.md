@@ -3,7 +3,7 @@ BharatSeva+ User Interface Provide Services to end-user, normal people, patient 
 ### BharatSeva+ (Plus) Consists of two WebApps :
 - [BharatSeva+ (Plus) HealthCare InterFace](https://bharatsevaplus-healthcare.netlify.app/)   
 - [BharatSeva+ (Plus) User Interface](https://bharatsevaplus-user.netlify.app/)  
-These Two Apps Works Concurrently to provide services to its User.  
+These two apps works concurrently to provide services to its User.  
 
 Some More Details
 - Check My Blog To know More About this project [Go to My Blog](https://statesinshorts.blogspot.com/2023/07/Bharatsevaplus.html) or Watch [My demo](https://www.youtube.com/playlist?list=PLXRQ5AMta2AI_jZlGr0A5owICnGkDpElO)  
