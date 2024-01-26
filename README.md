@@ -6,12 +6,12 @@ BharatSeva+ User Interface Provide Services to end-user, normal people, patient 
 These Two Apps Works Concurrently to provide services to its User.  
 
 Some More Details
-- Check My Blog To know More About this project Go to My Blog or Watch my Demo Open Playlist
-- This is MERN + Firebase Stack project Developed and Managed by Vaibhav Yadav Portfolio Link.
+- Check My Blog To know More About this project [Go to My Blog](https://statesinshorts.blogspot.com/2023/07/Bharatsevaplus.html) or Watch [My demo](https://www.youtube.com/playlist?list=PLXRQ5AMta2AI_jZlGr0A5owICnGkDpElO)  
+- This is MERN + Firebase Stack project Developed and Managed by Vaibhav Yadav.
 - This Project took almost 3 months to complete.
 - The Main Purpose behind this project is to test my Web-Development Skills and take it to Next Level like never before !
-- Both these Websites Hosted On Netlify Open
-- REST API Hosted at AWS Open
+- Both these Websites Hosted On Netlify
+- REST API Hosted at AWS
 - More Features Will Be Added in Future Updates. Some of them are : Video-Text Messages, Mobile View etc..
 
 ### Find backend of this project on this page!
