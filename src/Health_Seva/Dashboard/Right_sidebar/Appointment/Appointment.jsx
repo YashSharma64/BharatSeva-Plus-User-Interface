@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react"
 import "./Appointment.css"
 import { FetchData } from "../../../FetchData"
-const { v4: uuidv4 } = require('uuid');
 import { Navigate } from "react-router-dom"
+const { v4: uuidv4 } = require('uuid');
 export default function Appointment() {
     const DataSelected = document.getElementById("SelectDate")
     const [Isredirect, SetIsredirect] = useState(false)

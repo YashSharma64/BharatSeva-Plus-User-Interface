@@ -21,7 +21,7 @@ export default function RegisterPage() {
     // Register API Goes here
     const RegisterPatient = async () => {
         try {
-            const Response = await fetch(`http://bharatsevaplus.ap-south-1.elasticbeanstalk.com/api/v1/userauth/userregister`, {
+            const Response = await fetch(`${process.env.REACT_APP_API_URL}/api/v1/userauth/userregister`, {
                 method: "POST",
                 headers: {
                     'content-type': "application/json"
@@ -98,8 +98,9 @@ export default function RegisterPage() {
                     <li>Enter the same Email with which your account registered with. </li>
                 </ul>
             </div>
-
-            <InsecureContent/>
+            
+            {/* Pop Up to show warning!! */}
+            {/* <InsecureContent/> */}
         </>
     )
 }

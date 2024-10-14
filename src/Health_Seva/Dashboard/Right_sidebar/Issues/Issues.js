@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react"
 import "./Issues.css"
 import { FetchData } from "../../../FetchData"
-const { v4: uuidv4 } = require('uuid');
 import { Navigate } from "react-router-dom"
+const { v4: uuidv4 } = require('uuid');
 function IssuesFormat(props) {
     return (
         <div key={uuidv4()} className="Health_Record_Containers">

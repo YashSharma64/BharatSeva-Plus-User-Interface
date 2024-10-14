@@ -29,7 +29,7 @@ export default function LoginPage() {
     const LoginAPI = async () => {
         SetAuthenticated((p) => ({ ...p, IsFetching: true }))
         try {
-            const Authorization = await fetch(`http://bharatsevaplus.ap-south-1.elasticbeanstalk.com/api/v1/userauth/userlogin`, {
+            const Authorization = await fetch(`${process.env.REACT_APP_API_URL}/api/v1/userauth/userlogin`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -105,7 +105,7 @@ export default function LoginPage() {
             </div>
 
             {/* This One IS For Insecure Alert!! */}
-            <InsecureContent />
+            {/* <InsecureContent /> */}
 
         </div>
     )

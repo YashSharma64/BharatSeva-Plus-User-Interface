@@ -2,8 +2,8 @@ import { ReactDOM, useEffect, useRef, useState } from "react"
 import Select from "react-select"
 import "./MyRecords.css"
 import { FetchData } from "../../../FetchData"
-const { v4: uuidv4 } = require('uuid');
 import { Navigate } from "react-router-dom"
+const { v4: uuidv4 } = require('uuid');
 
 export default function MyRecords() {
 

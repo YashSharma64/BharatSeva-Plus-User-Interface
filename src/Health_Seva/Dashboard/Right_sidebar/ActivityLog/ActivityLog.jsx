@@ -1,8 +1,8 @@
 import "./ActivityLog.css"
 import { FetchData } from "../../../FetchData"
 import { useState, useEffect } from "react"
-const { v4: uuidv4 } = require('uuid');
 import { Navigate } from "react-router-dom"
+const { v4: uuidv4 } = require('uuid');
 export default function ActivityLog() {
 
     const [ActivityResponse, SetActivityResponse] = useState()
